@@ -1,0 +1,11 @@
+C:\workspace\EngStudy\EngStudy\bin\Debug\EngStudy.exe.config
+C:\workspace\EngStudy\EngStudy\bin\Debug\EngStudy.exe
+C:\workspace\EngStudy\EngStudy\bin\Debug\EngStudy.pdb
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.csproj.AssemblyReference.cache
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.FmrPrin.resources
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.Properties.Resources.resources
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.csproj.GenerateResource.cache
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.csproj.CoreCompileInputs.cache
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.exe
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.pdb
+C:\workspace\EngStudy\EngStudy\obj\Debug\EngStudy.ConfirmacaoUploadImagem.resources
